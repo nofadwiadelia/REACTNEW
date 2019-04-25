@@ -1,0 +1,37 @@
+.ungu{
+    color: purple;
+}
+
+.orange{
+    color: orange;
+}
+
+.box{
+    border: 1px solid rgba(0, 0, 0, 0.37);
+    margin-right: 10px;
+    margin-left: 10px;
+    width: 24%;
+    background-color: whitesmoke;
+    box-shadow: gray;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.btn {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    box-shadow: 1px 2px gray;
+}
+
+.btn-blue {
+    border-radius: 4px;
+    background-color: deepskyblue;
+}
